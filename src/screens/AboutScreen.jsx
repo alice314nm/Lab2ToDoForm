@@ -8,7 +8,7 @@ import MainLayout from '../layouts/MainLayout';
 
 const getCurrentDate = () => {
     const date = new Date();
-    return date.toDateString(); // Formats the date to something like "Mon Aug 02 2023"
+    return date.toDateString();
 };
 
 
